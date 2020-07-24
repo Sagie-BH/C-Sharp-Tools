@@ -1,0 +1,11 @@
+C:\Users\Sagie\source\repos\GoingBack\StringBuilderPrac\bin\Debug\netcoreapp3.1\StringBuilderPrac.exe
+C:\Users\Sagie\source\repos\GoingBack\StringBuilderPrac\bin\Debug\netcoreapp3.1\StringBuilderPrac.deps.json
+C:\Users\Sagie\source\repos\GoingBack\StringBuilderPrac\bin\Debug\netcoreapp3.1\StringBuilderPrac.runtimeconfig.json
+C:\Users\Sagie\source\repos\GoingBack\StringBuilderPrac\bin\Debug\netcoreapp3.1\StringBuilderPrac.runtimeconfig.dev.json
+C:\Users\Sagie\source\repos\GoingBack\StringBuilderPrac\bin\Debug\netcoreapp3.1\StringBuilderPrac.dll
+C:\Users\Sagie\source\repos\GoingBack\StringBuilderPrac\bin\Debug\netcoreapp3.1\StringBuilderPrac.pdb
+C:\Users\Sagie\source\repos\GoingBack\StringBuilderPrac\obj\Debug\netcoreapp3.1\StringBuilderPrac.csprojAssemblyReference.cache
+C:\Users\Sagie\source\repos\GoingBack\StringBuilderPrac\obj\Debug\netcoreapp3.1\StringBuilderPrac.AssemblyInfoInputs.cache
+C:\Users\Sagie\source\repos\GoingBack\StringBuilderPrac\obj\Debug\netcoreapp3.1\StringBuilderPrac.AssemblyInfo.cs
+C:\Users\Sagie\source\repos\GoingBack\StringBuilderPrac\obj\Debug\netcoreapp3.1\StringBuilderPrac.dll
+C:\Users\Sagie\source\repos\GoingBack\StringBuilderPrac\obj\Debug\netcoreapp3.1\StringBuilderPrac.pdb

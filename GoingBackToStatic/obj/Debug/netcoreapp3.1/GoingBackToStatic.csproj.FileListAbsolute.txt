@@ -1,0 +1,11 @@
+C:\Users\Sagie\source\repos\GoingBack\GoingBackToStatic\bin\Debug\netcoreapp3.1\GoingBackToStatic.exe
+C:\Users\Sagie\source\repos\GoingBack\GoingBackToStatic\bin\Debug\netcoreapp3.1\GoingBackToStatic.deps.json
+C:\Users\Sagie\source\repos\GoingBack\GoingBackToStatic\bin\Debug\netcoreapp3.1\GoingBackToStatic.runtimeconfig.json
+C:\Users\Sagie\source\repos\GoingBack\GoingBackToStatic\bin\Debug\netcoreapp3.1\GoingBackToStatic.runtimeconfig.dev.json
+C:\Users\Sagie\source\repos\GoingBack\GoingBackToStatic\bin\Debug\netcoreapp3.1\GoingBackToStatic.dll
+C:\Users\Sagie\source\repos\GoingBack\GoingBackToStatic\bin\Debug\netcoreapp3.1\GoingBackToStatic.pdb
+C:\Users\Sagie\source\repos\GoingBack\GoingBackToStatic\obj\Debug\netcoreapp3.1\GoingBackToStatic.csprojAssemblyReference.cache
+C:\Users\Sagie\source\repos\GoingBack\GoingBackToStatic\obj\Debug\netcoreapp3.1\GoingBackToStatic.AssemblyInfoInputs.cache
+C:\Users\Sagie\source\repos\GoingBack\GoingBackToStatic\obj\Debug\netcoreapp3.1\GoingBackToStatic.AssemblyInfo.cs
+C:\Users\Sagie\source\repos\GoingBack\GoingBackToStatic\obj\Debug\netcoreapp3.1\GoingBackToStatic.dll
+C:\Users\Sagie\source\repos\GoingBack\GoingBackToStatic\obj\Debug\netcoreapp3.1\GoingBackToStatic.pdb

@@ -1,0 +1,9 @@
+C:\Users\Sagie\source\repos\BindingSource\BindingSource\bin\Debug\BindingSource.exe.config
+C:\Users\Sagie\source\repos\BindingSource\BindingSource\bin\Debug\BindingSource.exe
+C:\Users\Sagie\source\repos\BindingSource\BindingSource\bin\Debug\BindingSource.pdb
+C:\Users\Sagie\source\repos\BindingSource\BindingSource\obj\Debug\BindingSource.csprojAssemblyReference.cache
+C:\Users\Sagie\source\repos\BindingSource\BindingSource\obj\Debug\BindingSource.MainBidingForm.resources
+C:\Users\Sagie\source\repos\BindingSource\BindingSource\obj\Debug\BindingSource.Properties.Resources.resources
+C:\Users\Sagie\source\repos\BindingSource\BindingSource\obj\Debug\BindingSource.csproj.GenerateResource.cache
+C:\Users\Sagie\source\repos\BindingSource\BindingSource\obj\Debug\BindingSource.exe
+C:\Users\Sagie\source\repos\BindingSource\BindingSource\obj\Debug\BindingSource.pdb

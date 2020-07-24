@@ -1,0 +1,11 @@
+C:\Users\Sagie\source\repos\GoingBack\GoingBack\bin\Debug\netcoreapp3.1\StructPrac.exe
+C:\Users\Sagie\source\repos\GoingBack\GoingBack\bin\Debug\netcoreapp3.1\StructPrac.deps.json
+C:\Users\Sagie\source\repos\GoingBack\GoingBack\bin\Debug\netcoreapp3.1\StructPrac.runtimeconfig.json
+C:\Users\Sagie\source\repos\GoingBack\GoingBack\bin\Debug\netcoreapp3.1\StructPrac.runtimeconfig.dev.json
+C:\Users\Sagie\source\repos\GoingBack\GoingBack\bin\Debug\netcoreapp3.1\StructPrac.dll
+C:\Users\Sagie\source\repos\GoingBack\GoingBack\bin\Debug\netcoreapp3.1\StructPrac.pdb
+C:\Users\Sagie\source\repos\GoingBack\GoingBack\obj\Debug\netcoreapp3.1\StructPrac.csprojAssemblyReference.cache
+C:\Users\Sagie\source\repos\GoingBack\GoingBack\obj\Debug\netcoreapp3.1\StructPrac.AssemblyInfoInputs.cache
+C:\Users\Sagie\source\repos\GoingBack\GoingBack\obj\Debug\netcoreapp3.1\StructPrac.AssemblyInfo.cs
+C:\Users\Sagie\source\repos\GoingBack\GoingBack\obj\Debug\netcoreapp3.1\StructPrac.dll
+C:\Users\Sagie\source\repos\GoingBack\GoingBack\obj\Debug\netcoreapp3.1\StructPrac.pdb

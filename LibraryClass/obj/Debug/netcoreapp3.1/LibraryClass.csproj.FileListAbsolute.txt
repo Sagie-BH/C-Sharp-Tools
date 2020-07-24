@@ -1,0 +1,13 @@
+C:\Users\Sagie\source\repos\GoingBack\LibraryClass\bin\Debug\netcoreapp3.1\LibraryClass.exe
+C:\Users\Sagie\source\repos\GoingBack\LibraryClass\bin\Debug\netcoreapp3.1\LibraryClass.deps.json
+C:\Users\Sagie\source\repos\GoingBack\LibraryClass\bin\Debug\netcoreapp3.1\LibraryClass.runtimeconfig.json
+C:\Users\Sagie\source\repos\GoingBack\LibraryClass\bin\Debug\netcoreapp3.1\LibraryClass.runtimeconfig.dev.json
+C:\Users\Sagie\source\repos\GoingBack\LibraryClass\bin\Debug\netcoreapp3.1\LibraryClass.dll
+C:\Users\Sagie\source\repos\GoingBack\LibraryClass\bin\Debug\netcoreapp3.1\LibraryClass.pdb
+C:\Users\Sagie\source\repos\GoingBack\LibraryClass\obj\Debug\netcoreapp3.1\LibraryClass.csprojAssemblyReference.cache
+C:\Users\Sagie\source\repos\GoingBack\LibraryClass\obj\Debug\netcoreapp3.1\LibraryClass.AssemblyInfoInputs.cache
+C:\Users\Sagie\source\repos\GoingBack\LibraryClass\obj\Debug\netcoreapp3.1\LibraryClass.AssemblyInfo.cs
+C:\Users\Sagie\source\repos\GoingBack\LibraryClass\obj\Debug\netcoreapp3.1\LibraryClass.dll
+C:\Users\Sagie\source\repos\GoingBack\LibraryClass\obj\Debug\netcoreapp3.1\LibraryClass.pdb
+C:\Users\Sagie\source\repos\GoingBack\LibraryClass\bin\Debug\netcoreapp3.1\Sorts.dll
+C:\Users\Sagie\source\repos\GoingBack\LibraryClass\obj\Debug\netcoreapp3.1\LibraryClass.csproj.CopyComplete
